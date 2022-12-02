@@ -1,0 +1,19 @@
+h1 {
+    text-shadow: rgb(17, 43, 38) 1px 0 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(151, 146, 146)
+}
+body{
+    background-color: rgb(61, 103, 116);
+}
+h2 {
+    text-shadow: rgb(17, 43, 38) 1px 0 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(151, 146, 146)
+}
+p{
+    background: linear-gradient(120deg,#abb6be 0%,#1d222c 100%);
+background-clip: border-box;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
